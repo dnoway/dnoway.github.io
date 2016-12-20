@@ -2,10 +2,10 @@
 color:
   primary: e23843
   secondary: e23843
-  secondary-dark: 111
-  muted: 777
+  secondary-dark: 555
+  muted: b4bcc2
 
 # Font Families
 font:
-  primary: 'Dosis, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  primary: '"Bree Serif", Georgia, serif'
   secondary: '"Droid Sans", "Helvetica Neue", Helvetica,Arial,sans-serif'

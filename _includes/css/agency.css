@@ -6,7 +6,8 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Open Sans', Verdana, Helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
