@@ -1,15 +1,16 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Janela Arquitetura e Design
+site: janelaarquiteturaedesign.com
+subtitle: Consultoria desenvolvimento de ideia e operacionalização de negócio
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: janela.png
+thumbnail: janela-thumb.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Outubro de 2016
+client: Janela Arquitetura e Design
+category: Consultoria
+description: Prestamos uma consultoria sobre o desenvolvimento de ideia e operacionalização de negócios para a Janela Arquitetura e Design.
 
 ---

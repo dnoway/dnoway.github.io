@@ -1,15 +1,15 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: IHOM
+site: http://ihom.com.br
+subtitle: Junção de site com plataforma de ensino à distância
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: ihom.png
+thumbnail: ihom-thumb.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: Junho de 2016
+client: IHOM
+category: Web
+description: O projeto desenvolvido para o IHOM inicialmente visava renovar sua identidade visual e website. Após análise verificamos que com pequeno aumento no investimento era possível criar uma plataforma de ensino à distância utilizando um como base em sistema e módulos de código aberto.
 ---

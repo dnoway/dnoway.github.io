@@ -1,15 +1,15 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Comida de Vizinho
+subtitle: Desenvolvidas funcionalidades de pagamento
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: comidadevizinho.png
+thumbnail: comidadevizinho-thumb.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: Outubro de 2016
+client: Comida de Vizinho
+category: Pagamentos
+description: Desenvolvemos as funcionalidades de pagamento online para a startup Comida de Vizinho. Era uma exigência que fosse utilizado checkout transparente para o usuário e também que fosse desenvolvida a funcionalidade de split-payment, que é a separação e envio do valor de uma compra para várias contas. Desenvolvemos essa integração utilizando a plataforma de pagamentos Iugu (http://iugu.com).
 
 ---
