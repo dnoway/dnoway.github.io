@@ -8,13 +8,8 @@
             </div>
             <div class="row">
                 <div class="col-lg-12">
-                  <form name="sentMessage" id="contactForm" method='POST'>
-                    <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-                    <div class='large-12 columns'>
-                      <p id='thanks' style='display: none;'>
-                        Thanks for contacting us, we'll be in touch soon!
-                      </p>
-                    </div>
+                  <form name="sentMessage" id="contactForm" method='post'>
+                    <input type="hidden" name="_next" value="thanks.html" />
                         <div class="row">
                             <div class="col-md-6">
                                 <div class="control-group form-group">
@@ -43,6 +38,10 @@
                             </div>
                         </div>
                     </form>
+                    <script>
+                        var contactform =  document.getElementById('contactForm');
+                        contactform.setAttribute('action', '//formspree.io/' + 'dnoway' + '@' + 'gmail' + '.' + 'com');
+                    </script>
                 </div>
             </div>
         </div>
