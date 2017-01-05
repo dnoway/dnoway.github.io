@@ -1,0 +1,14 @@
+---
+title: Tecno Lubrificantes
+subtitle: Renovação de website e otimização para SEO
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: tecno.png
+thumbnail: tecno-thumb.png
+alt: image-alt
+project-date: Dezembro de 2016
+client: Tecno Lubrificantes
+category: Web
+description: Através da nossa parceria MW Marketware, desenvolvemos nova versão do website para a Tecno Lubrificantes. Além do website, era uma preocupação que o site tivesse design responsivo e que fosse otimizado para SEO.
+---
