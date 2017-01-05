@@ -26,6 +26,9 @@ twitter_username: dnoway
 github_username:  jekyll
 facebook_username: fusili.tech.art
 
+# Google Services
+google_analytics: UA-89917109-1
+
 # Build settings
 markdown: kramdown
 theme: minima
