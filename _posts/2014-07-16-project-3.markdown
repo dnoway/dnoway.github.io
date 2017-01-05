@@ -1,7 +1,7 @@
 ---
 title: Janela Arquitetura e Design
 site: janelaarquiteturaedesign.com
-subtitle: Consultoria desenvolvimento de ideia e operacionalização de negócio
+subtitle: Consultoria em desenvolvimento de ideia e operacionalização de negócio
 layout: default
 modal-id: 3
 date: 2014-07-16
@@ -11,6 +11,6 @@ alt: image-alt
 project-date: Outubro de 2016
 client: Janela Arquitetura e Design
 category: Consultoria
-description: Prestamos uma consultoria sobre o desenvolvimento de ideia e operacionalização de negócios para a Janela Arquitetura e Design.
+description: Prestamos uma consultoria de desenvolvimento de ideia e operacionalização de negócios para a Janela Arquitetura e Design.
 
 ---

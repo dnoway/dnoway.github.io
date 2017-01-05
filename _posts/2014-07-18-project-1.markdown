@@ -1,7 +1,7 @@
 ---
 title: IHOM
 site: http://ihom.com.br
-subtitle: Renovação de site e desenvilvimento de plataforma de ensino à distância
+subtitle: Renovação de site e desenvolvimento de plataforma de ensino à distância
 layout: default
 modal-id: 1
 date: 2014-07-18
@@ -11,5 +11,5 @@ alt: image-alt
 project-date: Junho de 2016
 client: IHOM
 category: Web
-description: O projeto desenvolvido para o IHOM inicialmente visava renovar sua identidade visual e website. Após análise verificamos que com pequeno aumento no investimento era possível criar uma plataforma de ensino à distância utilizando um como base em sistema e módulos de código aberto.
+description: O projeto desenvolvido para o IHOM inicialmente visava renovar sua identidade visual e website. Após análise verificamos que era possível atingir novos mercados com pequeno aumento no investimento. Criamos uma plataforma de ensino à distância utilizando como base solução e módulos de código aberto.
 ---
