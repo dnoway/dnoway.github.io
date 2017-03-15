@@ -20,7 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   com seus clientes através da tecnologia, rebranding e comunicação
   criativa.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fusi.li" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fusi.li" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: "fusi.li"
 facebook_username: fusili.tech.art
 twitter_username: dnoway
 github_username:  jekyll
