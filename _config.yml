@@ -13,18 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fusili Tech Art
+title: Fusili Tech Art - Tecnologia com criatividade - Websites, identidade visual e comunicação
 email: contato@fusi.li
-description: > # this means to ignore newlines until "baseurl:"
-  Uma startup que ajuda pequenas e médias empresas a se conectarem
-  com seus clientes através da tecnologia, rebranding e comunicação
+description: # this means to ignore newlines until "baseurl:"
+  Ajudamos pequenas e médias empresas a se conectarem com seus 
+  clientes através da tecnologia, rebranding e comunicação
   criativa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fusi.li" # the base hostname & protocol for your site, e.g. http://example.com
 enforce_ssl: "fusi.li"
-facebook_username: fusili.tech.art
-twitter_username: dnoway
-github_username:  jekyll
 facebook_username: fusili.tech.art
 
 # Google Services
