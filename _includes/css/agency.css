@@ -59,6 +59,9 @@ h6 {
     font-weight: 400;
 }
 
+#heading_p{
+    text-align: justify;
+}
 .img-centered {
     margin: 0 auto;
 }
