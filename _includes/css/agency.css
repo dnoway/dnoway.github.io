@@ -180,6 +180,10 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
+.navbar-brand {
+    height: 70px;
+}
+
 .navbar-default .navbar-brand {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
