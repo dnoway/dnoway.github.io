@@ -59,7 +59,23 @@ h6 {
     font-weight: 400;
 }
 
+#services {
+    background-color: #e6e6e6;
+}
+
 #heading_p{
+    text-align: center;
+}
+
+#hservice {
+    margin-top: 20px;
+}
+
+#pservice{
+    margin-bottom: 40px;
+}
+
+.svalue {
     text-align: justify;
 }
 .img-centered {
@@ -881,6 +897,36 @@ img::selection {
 img::-moz-selection {
     background: 0 0;
 }
+
+#vertical {
+    transform: rotate(-90deg);
+	transform-origin: left center 20;
+    display: inline-block;
+    margin-bottom: 100px;
+    margin-left: 10px;
+    text-align: center;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#project_log{
+    margin-bottom: 30px;
+}
+
+#projects {
+    text-align: center;
+}
+
+#project_desc {
+    text-align: left;
+    margin-bottom: 20px;
+        
+}
+
+project_proposal {
+    text-align: left;
+}
+
 
 body {
     webkit-tap-highlight-color: #{{ site.data.template.color.primary }};
