@@ -78,6 +78,15 @@ h6 {
 .svalue {
     text-align: justify;
 }
+
+#highlight {
+    font-size: 19px;
+    padding: 40px;
+    text-decoration-style: dotted;
+    font-weight: 600;
+    text-align: justify;
+}
+
 .img-centered {
     margin: 0 auto;
 }
