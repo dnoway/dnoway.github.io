@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Fusili Tech Art - Tecnologia com criatividade
+title: Fusili Tech Art - Impulsionando negócios
 email: contato@fusi.li
 description: # this means to ignore newlines until "baseurl:"
-  Ajudamos pequenas e médias empresas a se conectarem com seus 
-  clientes através da tecnologia, rebranding e comunicação
+  Ajudamos empreendedores, pequenas e médias empresas a faturarem mais e melhor 
+  através da definição da definição de estratégias, tecnologia e comunicação
   criativa.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fusi.li" # the base hostname & protocol for your site, e.g. http://example.com
